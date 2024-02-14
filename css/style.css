@@ -233,7 +233,7 @@ nav{ padding: 30px 0;
   }
   .text-block{
    max-height: 250px;
-    overflow: auto;
+
   }
 
  /* Step 13:Write the selector/rule property to update the .text-block class */
